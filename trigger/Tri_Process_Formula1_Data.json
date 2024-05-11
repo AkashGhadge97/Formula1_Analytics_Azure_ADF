@@ -2,7 +2,7 @@
 	"name": "Tri_Process_Formula1_Data",
 	"properties": {
 		"annotations": [],
-		"runtimeState": "Started",
+		"runtimeState": "Stopped",
 		"pipeline": {
 			"pipelineReference": {
 				"referenceName": "pl_process_formula1_data",
